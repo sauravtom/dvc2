@@ -47,7 +47,7 @@ sections:
       us on Twitter.
     actions:
       - type: action
-        label: Let's start
+        label: '@defivc'
         url: /contact
         style: button
     image: images/cta.svg
