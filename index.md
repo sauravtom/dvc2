@@ -27,14 +27,12 @@ sections:
       - type: grid_item
         title: Hiring
         image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+        content: |
+          *   Hiring Blockchain talent
+          *   Growth Hacking
+          *   Concept development
+          *   Brand implementation and management
+          *   Typography
       - type: grid_item
         title: Token Engineering
         image: images/service-3.svg
