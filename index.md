@@ -43,8 +43,8 @@ sections:
     section_id: cta
     title: Let’s Work Together!
     content: >
-      Say hello at [s](mailto:email@example.com)aurav@defivc.xyz or tell us more
-      about your project by getting started below.
+      Say hello at saurav@defivc.xyz or tell us more about your project by
+      getting started below.
     actions:
       - type: action
         label: Let's start
