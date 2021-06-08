@@ -43,8 +43,8 @@ sections:
     section_id: cta
     title: Let’s Work Together!
     content: >
-      Say hello at saurav@defivc.xyz or tell us more about your project by
-      getting started below.
+      Say hello at saurav@defivc.xyz or tell us more about your project by DMing
+      us on Twitter.
     actions:
       - type: action
         label: Let's start
