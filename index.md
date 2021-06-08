@@ -55,7 +55,7 @@ sections:
     bg_color: light
 layout: advanced
 seo:
-  title: ''
+  title: DeFiVC - Crypto Venture Studio
   description: ''
   robots: []
   extra: []
