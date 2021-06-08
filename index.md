@@ -5,9 +5,8 @@ sections:
   - type: hero_section
     section_id: hero
     title: DeFi Venture Studio
-    content: |+
-      We build and launch blockchain (DeFI) startups
-
+    content: |
+      Blockchain research and product development
   - type: grid_section
     section_id: services
     title: Services
