@@ -8,14 +8,6 @@ sections:
     content: |+
       We build and launch blockchain (DeFI) startups
 
-  - type: portfolio_section
-    section_id: latest-projects
-    title: Recent Work
-    subtitle: Explore case studies
-    layout_style: tiles
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
   - type: grid_section
     section_id: clients
     title: Clients
