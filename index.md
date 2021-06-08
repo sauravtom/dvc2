@@ -1,5 +1,5 @@
 ---
-title: Home
+title: DeFiVC
 hide_title: true
 sections:
   - type: hero_section
