@@ -16,14 +16,13 @@ sections:
       - type: grid_item
         title: Product
         image: images/service-1.svg
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
+        content: >
+          *   Full stack blockchain development
+
+          *   Experience in building Crypto exchanges, wallets, NFTs, ICOs, IDOs
+
+          *   Expertise across blockchains namely Ethereum, Cardano, Cosmos &
+          Polkadot
       - type: grid_item
         title: Hiring & Misc
         image: images/service-2.svg
