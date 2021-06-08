@@ -15,12 +15,6 @@
                 "label": "Home",
                 "url": "/",
                 "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "button"
             }
         ]
     },
