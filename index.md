@@ -42,8 +42,8 @@ sections:
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
-    content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
+    content: >
+      Say hello at [s](mailto:email@example.com)aurav@defivc.xyz or tell us more
       about your project by getting started below.
     actions:
       - type: action
