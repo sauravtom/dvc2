@@ -18,12 +18,6 @@
             },
             {
                 "type": "action",
-                "label": "Work",
-                "url": "/portfolio/",
-                "style": "link"
-            },
-            {
-                "type": "action",
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "button"
