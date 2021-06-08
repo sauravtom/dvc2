@@ -56,7 +56,7 @@ sections:
 layout: advanced
 seo:
   title: DeFiVC - Crypto Venture Studio
-  description: ''
+  description: 'We build and launch blockchain startups. DeFi, NFTs, Crypto Exchanges.'
   robots: []
   extra: []
   type: stackbit_page_meta
