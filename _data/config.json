@@ -80,5 +80,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://dvc2-edd95.netlify.app"
 }
