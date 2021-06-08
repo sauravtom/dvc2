@@ -25,7 +25,7 @@ sections:
           - Digital and experience strategy
           - Communication strategy
       - type: grid_item
-        title: Hiring
+        title: Hiring & Misc
         image: images/service-2.svg
         content: |
           *   Hiring Blockchain talent
