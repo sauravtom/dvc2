@@ -38,15 +38,10 @@ sections:
       - type: grid_item
         title: Token Engineering
         image: images/service-3.svg
-        content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
+        content: |
+          *   Tokenomics aware design
+          *   Systems design
+          *   CAD-CAD based simulations testing
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
