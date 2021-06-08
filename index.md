@@ -48,7 +48,7 @@ sections:
     actions:
       - type: action
         label: '@defivc'
-        url: /contact
+        url: 'https://twitter.com/defivc'
         style: button
     image: images/cta.svg
     image_alt: Illustration
